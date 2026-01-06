@@ -1,0 +1,1 @@
+console.log("Ola mundao veio sem portera.");
