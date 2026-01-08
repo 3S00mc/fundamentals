@@ -2,12 +2,16 @@
 
 # 1️⃣ Desafio Classificador de nível de Herói
 
-**O Que deve ser utilizado**
+[//]: # (**O Que deve ser utilizado**)
 
-- Variáveis
-- Operadores
-- Laços de repetição
-- Estruturas de decisões
+[//]: # ()
+[//]: # (- Variáveis)
+
+[//]: # (- Operadores)
+
+[//]: # (- Laços de repetição)
+
+[//]: # (- Estruturas de decisões)
 
 ## Objetivo
 
@@ -30,13 +34,19 @@ Ao final deve se exibir uma mensagem:
 
 
 # 2️⃣ Calculadora de partidas Rankeadas
-**O Que deve ser utilizado**
 
-- Variáveis
-- Operadores
-- Laços de repetição
-- Estruturas de decisões
-- Funções
+[//]: # (**O Que deve ser utilizado**)
+
+[//]: # ()
+[//]: # (- Variáveis)
+
+[//]: # (- Operadores)
+
+[//]: # (- Laços de repetição)
+
+[//]: # (- Estruturas de decisões)
+
+[//]: # (- Funções)
 
 ## Objetivo:
 
