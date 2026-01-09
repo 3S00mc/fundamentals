@@ -61,14 +61,14 @@ Ao final deve se exibir uma mensagem:
 
 # 3️⃣ Escrevendo as classes de um Jogo
 
-**O Que deve ser utilizado**
-
-- Variáveis
-- Operadores
-- Laços de repetição
-- Estruturas de decisões
-- Funções
-- Classes e Objetos
+[//]: # (_**O Que deve ser utilizado**)
+[//]: # ()
+[//]: # (- Variáveis)
+[//]: # (- Operadores)
+[//]: # (- Laços de repetição)
+[//]: # (- Estruturas de decisões)
+[//]: # (- Funções)
+[//]: # (- Classes e Objetos_)
 
 ## Objetivo:
 
